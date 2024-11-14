@@ -13,7 +13,7 @@ public class Main
     upperB = sc.nextInt();
     int theNumNCount = lowerB;
 
-    while ((theNumNCount >= lowerB)  && (theNumNCount <=upperB))
+    while ((theNumNCount <=upperB))
     {
       if (theNumNCount % 2 == 1)
       {
